@@ -1,26 +1,4 @@
 
-/*********************************/
-/*         INDEX                 */
-/*================================
- *     01.  Variables            *
- *     02.  Bootstrap Custom     *
- *     03.  Components           *
- *     04.  General              *
- *     05.  Helper               *
- *     06.  Menu                 *
- *     07.  Home / Landing       *
- *     08.  Features / Services  *
- *     09.  Testimonial          *
- *     10.  Price                *
- *     11.  C.T.A                *
- *     12.  Blog / Careers / Job *
- *     13.  Work / Projects      *
- *     14.  Team                 *
- *     15.  User Pages           *
- *     16.  Countdown            *
- *     17.  Contact              *
- *     18.  Footer               *
- ================================*/
 @import url("https://fonts.googleapis.com/css?family=Roboto:300,400,600,700&display=swap");
 .bg-primary {
   background-color: #2f55d4 !important;

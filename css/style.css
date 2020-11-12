@@ -1,11 +1,4 @@
-/* Template Name: Landrick - Saas & Software Landing Page Template
-   Author: Shreethemes
-   E-mail: shreethemes@gmail.com
-   Created: August 2019
-   Version: 2.5.1
-   Updated: August 2020
-   File Description: Main Css file of the template
-*/
+
 /*********************************/
 /*         INDEX                 */
 /*================================
@@ -28,7 +21,7 @@
  *     17.  Contact              *
  *     18.  Footer               *
  ================================*/
-@import url("https://fonts.googleapis.com/css?family=Nunito:300,400,600,700&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Roboto:300,400,600,700&display=swap");
 .bg-primary {
   background-color: #2f55d4 !important;
 }
@@ -1968,14 +1961,14 @@ button:not(:disabled) {
 }
 
 body {
-  font-family: "Nunito", sans-serif;
+  font-family: "Roboto", sans-serif;
   overflow-x: hidden !important;
   font-size: 16px;
   color: #161c2d;
 }
 
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
-  font-family: "Nunito", sans-serif;
+  font-family: "Roboto", sans-serif;
   line-height: 1.5;
   font-weight: 600;
 }
@@ -2348,7 +2341,7 @@ p {
   text-transform: uppercase;
   -webkit-transition: all 0.5s;
   transition: all 0.5s;
-  font-family: "Nunito", sans-serif;
+  font-family: "Roboto", sans-serif;
   padding-left: 15px;
   padding-right: 15px;
 }
